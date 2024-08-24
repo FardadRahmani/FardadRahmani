@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **web development, because aside from hard coding that I like so much I also need a stage foor its presentation, and that is where this knowledge will come in very handy.**
 
-- 👯 I’m looking to collaborate on [machine-Learning and learning all the different Concepts there is especially in the healthcare area.](https://github.com/FardadRahmani/Machine-Learning)
+- 👯 I’m looking to collaborate on [Machine-Learning](https://github.com/FardadRahmani/Machine-Learning) and learning all the different Concepts there is especially in the healthcare area.
 
 - 💬 Ask me about **Python, C++, Android, Machine Learning**
 
