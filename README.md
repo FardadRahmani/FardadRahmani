@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Python](https://github.com/FardadRahmani/python) and meanwhile learning more and more about [Machine-Learning](https://github.com/FardadRahmani/Machine-Learning)
 
-- 🌱 I’m currently learning **web development, because aside from hard coding that I like so much I also need a stage foor its presentation, and that is where this knowledge will come in very handy.**
+- 🌱 I’m currently learning **web development, because aside from hard coding that I like so much I also need a stage for its presentation, and that is where this knowledge will come in very handy.**
 
 - 👯 I’m looking to collaborate on [Machine-Learning](https://github.com/FardadRahmani/Machine-Learning) and learning all the different Concepts there is especially in the healthcare area.
 
