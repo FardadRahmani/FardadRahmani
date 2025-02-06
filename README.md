@@ -4,13 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-- 🔭 I’m currently working on [Python](https://github.com/FardadRahmani/python) and meanwhile learning more and more about [Machine-Learning](https://github.com/FardadRahmani/Machine-Learning)
+- 🔭 I’m currently working on [C#](https://github.com/FardadRahmani/cSharp) 
 
 - 🌱 I’m currently learning **web development, because aside from hard coding that I like so much I also have found a great liking for this area as well.**
 
-- 👯 I’m looking to collaborate on [Machine-Learning](https://github.com/FardadRahmani/Machine-Learning) and learning all the different Concepts there is especially in the healthcare area.
-
-- 💬 Ask me about **Python, C++, Android, Web development and Machine Learning**
+- 💬 Ask me about **Python, C#, C++, Android, Web development and Machine Learning**
 
 - 📫 How to reach me **rahmanifardad@yahoo.de**
 
